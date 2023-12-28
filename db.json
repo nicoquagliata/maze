@@ -58,20 +58,6 @@
             "borderBottom": false,
             "borderLeft": false,
             "isPath": true
-        },
-        {
-            "element": {},
-            "row": 0,
-            "col": 4,
-            "width": 50,
-            "height": 50,
-            "id": 4,
-            "used": true,
-            "borderTop": true,
-            "borderRight": true,
-            "borderBottom": false,
-            "borderLeft": true,
-            "isPath": false
         }
     ],
     "gridBlockWidth": 50,
@@ -139,20 +125,6 @@
             "borderRight": false,
             "borderBottom": true,
             "borderLeft": false,
-            "isPath": true
-        },
-        {
-            "element": {},
-            "row": 2,
-            "col": 2,
-            "width": 50,
-            "height": 50,
-            "id": 12,
-            "used": true,
-            "borderTop": true,
-            "borderRight": false,
-            "borderBottom": false,
-            "borderLeft": true,
             "isPath": true
         }
     ],
