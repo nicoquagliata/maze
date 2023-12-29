@@ -8,56 +8,28 @@
             "row": 0,
             "col": 0,
             "width": 50,
-            "height": 50,
-            "id": 0,
-            "used": true,
-            "borderTop": true,
-            "borderRight": false,
-            "borderBottom": false,
-            "borderLeft": true,
-            "isPath": false
+            "height": 50
         },
         {
             "element": {},
             "row": 0,
             "col": 1,
             "width": 50,
-            "height": 50,
-            "id": 1,
-            "used": true,
-            "borderTop": true,
-            "borderRight": true,
-            "borderBottom": false,
-            "borderLeft": false,
-            "isPath": false
+            "height": 50
         },
         {
             "element": {},
             "row": 0,
             "col": 2,
             "width": 50,
-            "height": 50,
-            "id": 2,
-            "used": true,
-            "borderTop": false,
-            "borderRight": false,
-            "borderBottom": true,
-            "borderLeft": true,
-            "isPath": true
+            "height": 50
         },
         {
             "element": {},
             "row": 0,
             "col": 3,
             "width": 50,
-            "height": 50,
-            "id": 3,
-            "used": true,
-            "borderTop": true,
-            "borderRight": true,
-            "borderBottom": false,
-            "borderLeft": false,
-            "isPath": true
+            "height": 50
         }
     ],
     "gridBlockWidth": 50,
@@ -76,56 +48,28 @@
             "row": 0,
             "col": 2,
             "width": 50,
-            "height": 50,
-            "id": 2,
-            "used": true,
-            "borderTop": false,
-            "borderRight": false,
-            "borderBottom": true,
-            "borderLeft": true,
-            "isPath": true
+            "height": 50
         },
         {
             "element": {},
             "row": 0,
             "col": 3,
             "width": 50,
-            "height": 50,
-            "id": 3,
-            "used": true,
-            "borderTop": true,
-            "borderRight": true,
-            "borderBottom": false,
-            "borderLeft": false,
-            "isPath": true
+            "height": 50
         },
         {
             "element": {},
             "row": 1,
             "col": 3,
             "width": 50,
-            "height": 50,
-            "id": 8,
-            "used": true,
-            "borderTop": false,
-            "borderRight": false,
-            "borderBottom": false,
-            "borderLeft": false,
-            "isPath": true
+            "height": 50
         },
         {
             "element": {},
             "row": 2,
             "col": 3,
             "width": 50,
-            "height": 50,
-            "id": 13,
-            "used": true,
-            "borderTop": false,
-            "borderRight": false,
-            "borderBottom": true,
-            "borderLeft": false,
-            "isPath": true
+            "height": 50
         }
     ],
     "currentPosition": 4,
